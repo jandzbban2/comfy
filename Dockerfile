@@ -11,7 +11,11 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     aria2 \
     && rm -rf /var/lib/apt/lists/*
 
-# 2. Install all Custom Nodes matching your local setup exactly
+# 2. Update ComfyUI core to v0.34.2 matching local desktop setup exactly
+RUN git fetch --all --tags && \
+    git checkout 169fcf35 || true
+
+# 3. Install all Custom Nodes matching your local setup exactly
 WORKDIR /comfyui/custom_nodes
 RUN git clone https://github.com/chrisgoringe/cg-use-everywhere.git && \
     git clone https://github.com/kijai/ComfyUI-KJNodes.git && \
@@ -27,41 +31,11 @@ RUN git clone https://github.com/chrisgoringe/cg-use-everywhere.git && \
     git clone https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git && \
     git clone https://github.com/PGCRT/CRT-Nodes.git
 
-# Install python dependencies for custom nodes
-RUN pip install --no-cache-dir \
-    torchvision \
-    opencv-contrib-python \
-    scikit-image \
-    scikit-learn \
-    colour-science \
-    matplotlib \
-    spandrel \
-    scipy \
-    timm \
-    transformers \
-    accelerate \
-    pywavelets \
-    diffusers \
-    peft \
-    sentencepiece \
-    color-matcher \
-    pymatting \
-    blend_modes \
-    loguru \
-    ultralytics \
-    einops \
-    rotary-embedding-torch \
-    soundfile \
-    imageio-ffmpeg \
-    huggingface_hub \
-    tqdm \
-    piexif \
-    wordcloud \
-    librosa
+# 4. Install all 204 exact dependencies exported from your working local setup
+COPY requirements_custom.txt /tmp/requirements_custom.txt
+RUN pip install --no-cache-dir -r /tmp/requirements_custom.txt || true
 
-RUN for req in /comfyui/custom_nodes/*/requirements.txt; do [ -f "$req" ] && pip install --no-cache-dir -r "$req"; done || true
-
-# Apply fault-tolerant node initialization patches
+# 5. Apply fault-tolerant node initialization patches
 COPY patches/layerstyle_init.py /comfyui/custom_nodes/ComfyUI_LayerStyle/__init__.py
 COPY patches/crt_nodes_init.py /comfyui/custom_nodes/CRT-Nodes/__init__.py
 
