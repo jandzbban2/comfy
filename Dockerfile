@@ -19,7 +19,7 @@ RUN git clone https://github.com/chrisgoringe/cg-use-everywhere.git && \
     git clone https://github.com/yolain/ComfyUI-Easy-Use.git && \
     git clone https://github.com/WASasquatch/was-node-suite-comfyui.git && \
     git clone https://github.com/chflame163/ComfyUI_LayerStyle.git && \
-    git clone https://github.com/giriss/comfy-image-saver.git && \
+    git clone https://github.com/alexopus/ComfyUI-Image-Saver.git && \
     git clone https://github.com/ltdrdata/ComfyUI-Impact-Pack.git && \
     git clone https://github.com/capitan01R/ComfyUI-Krea2T-Enhancer.git && \
     git clone https://github.com/Azornes/Comfyui-Resolution-Master.git && \
