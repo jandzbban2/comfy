@@ -55,12 +55,15 @@ RUN pip install --no-cache-dir \
     imageio-ffmpeg \
     huggingface_hub \
     tqdm \
-    piexif
+    piexif \
+    wordcloud \
+    librosa
 
 RUN for req in /comfyui/custom_nodes/*/requirements.txt; do [ -f "$req" ] && pip install --no-cache-dir -r "$req"; done || true
 
-# Ensure ComfyUI_LayerStyle imports submodules fault-tolerantly
+# Apply fault-tolerant node initialization patches
 COPY patches/layerstyle_init.py /comfyui/custom_nodes/ComfyUI_LayerStyle/__init__.py
+COPY patches/crt_nodes_init.py /comfyui/custom_nodes/CRT-Nodes/__init__.py
 
 # 3. Create model directory structure
 RUN mkdir -p /comfyui/models/diffusion_models \
