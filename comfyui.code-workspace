@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "name": "Project Scripts (CodeWin)",
+      "path": "."
+    },
+    {
+      "name": "ComfyUI Core & Custom Nodes",
+      "path": "C:\\Users\\kubaz\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\MyComfy\\ComfyUI"
+    },
+    {
+      "name": "ComfyUI Shared (Models & Output)",
+      "path": "C:\\Users\\kubaz\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Shared"
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "C:\\Users\\kubaz\\AppData\\Local\\Comfy-Desktop\\ComfyUI-Installs\\MyComfy\\ComfyUI\\.venv\\Scripts\\python.exe",
+    "files.exclude": {
+      "**/__pycache__": true,
+      "**/.git": false
+    }
+  }
+}

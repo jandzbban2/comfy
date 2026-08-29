@@ -28,6 +28,7 @@ RUN git clone https://github.com/chrisgoringe/cg-use-everywhere.git && \
     git clone https://github.com/PGCRT/CRT-Nodes.git
 
 # Install python dependencies for custom nodes
+RUN for req in /comfyui/custom_nodes/*/requirements.txt; do [ -f "$req" ] && pip install --no-cache-dir -r "$req"; done || true
 RUN pip install --no-cache-dir \
     scikit-image \
     piexif \
@@ -39,7 +40,16 @@ RUN pip install --no-cache-dir \
     scipy \
     timm \
     transformers \
-    accelerate
+    accelerate \
+    pywavelets \
+    scikit-learn \
+    diffusers \
+    peft \
+    sentencepiece \
+    color-matcher \
+    pymatting \
+    blend_modes \
+    loguru
 
 # 3. Create model directory structure
 RUN mkdir -p /comfyui/models/diffusion_models \
@@ -69,4 +79,5 @@ RUN aria2c -x 16 -s 16 -k 1M \
 
 WORKDIR /
 
+# The base runpod image provides the start script / handler
 CMD ["/start.sh"]

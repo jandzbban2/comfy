@@ -1,0 +1,488 @@
+Model description links:
+https://forgebun.com
+https://forgebun.com/go/pro_models
+https://forgebun.com
+https://forgebun.com
+https://forgebun.com
+https://forgebun.com
+https://forgebun.com
+https://forgebun.com
+https://forgebun.com
+https://forgebun.com
+https://civitai.red/articles/32010/run-krea-2-in-forge-free-extension-first-on-forge
+https://civitai.red/articles/32010/run-krea-2-in-forge-free-extension-first-on-forge
+
+Model Versions:
+Version: v3.5 Int8 Extended (ID: 3258954)
+Description: None
+  https://civitai.com/api/download/models/3258954?fileId=3142504
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1aca65e7-ff7c-4f61-abd8-7c23e280900b/original=true/140762408.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2089bd07-1dfa-4f51-ac60-cf90b20e2f3e/original=true/140762406.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fbe9a327-2bb1-48d1-82ce-1c12dce2d17f/original=true/140762413.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/923eca1f-4e80-40b6-b522-17c603fba771/original=true/140762414.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b6170e3f-d26c-41e0-ac26-7d3f3acd0dcc/original=true/140762419.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/60439a9e-6d16-4ca9-b5fa-49b0435a57c1/original=true/140762418.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6b214ba4-9c3f-42c0-b862-dbbe663d4f5f/original=true/140762420.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6d65bdbb-412b-4ae2-86ec-7c8ce33f226b/original=true/140762422.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/97633af1-4745-4a91-8386-5c3e9817a8e1/original=true/140762425.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0694326d-90eb-471b-b455-294c634835ea/original=true/140762426.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1af53563-c632-4698-a118-9f53036c0f91/original=true/140762429.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/680da7fd-cfb3-45ec-9a95-c12c72c0309f/original=true/140762433.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad5c289e-95c7-418c-9a25-1f3b036244f9/original=true/140762437.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c022e4b-6a00-43bf-8327-4e06098ddc89/original=true/140762441.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c0121451-3e4b-4c4f-ac8a-a1ca94217674/original=true/140762445.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6468edb3-dc19-4c3b-83d3-07f1b7216ccb/original=true/140762447.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/604630ee-9218-47e1-aac7-9d30403d16a7/original=true/140762448.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e4f07345-300c-4d9d-a3bb-41a0c381d37a/original=true/140762453.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a7d819f6-ad99-4262-bfc8-54e271e33f4e/original=true/140762454.jpeg
+  https://civitai.com/api/download/models/3258954
+Version: v3.5 NVFP4 Extended (ID: 3258951)
+Description: None
+  https://civitai.com/api/download/models/3258951?fileId=3142449
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a67ee1d3-0e56-48f7-a891-de518418e982/original=true/140741293.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7b9da475-9854-47d2-b9b3-f7de3f39318f/original=true/140741306.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ec67679-f38c-4d27-9103-d57dd5fe92d5/original=true/140741263.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5a8e3fac-cd32-455a-96d8-4f3ebc96ded1/original=true/140741262.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0be2b6df-5d6d-469b-99d4-c9f216b17e02/original=true/140741267.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c4e41022-1700-459c-a6e9-26a13e78e62e/original=true/140741266.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1f49ae79-d8e7-4228-a149-82d09740c91e/original=true/140741271.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5b4e27dc-fdd4-4a56-b57b-599d54afc345/original=true/140741270.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ae03e4ca-c4a4-40fd-b72b-546b24446d17/original=true/140741274.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/30a7d799-ab33-47f3-883c-bea09422462c/original=true/140741276.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e05519be-c7d8-479a-9001-657a6d77a587/original=true/140741280.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3096ec40-3eb9-49f8-b7c6-2c112688bd01/original=true/140741281.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a9a670cd-f2c6-430b-804d-e36acb12bead/original=true/140741295.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/13bdf75e-61ae-4fb5-914d-0288e625fa11/original=true/140741297.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/66905f62-2d81-4bc5-a1f5-2ec8a2054f22/original=true/140741300.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f97ef223-8c79-460a-8a36-9310ace91f6a/original=true/140741305.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2c256580-d8df-401e-b15a-fb5b3eefd20d/original=true/140741315.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1be96e31-f6af-4bce-83d3-c8ef3a45ce9d/original=true/140741308.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ce8b6edf-fa59-48e5-b824-4d7e3ad4db5e/original=true/140741313.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6b1a4493-702b-4622-89a6-347c93ef7872/original=true/140741318.jpeg
+  https://civitai.com/api/download/models/3258951
+Version: v3.5 Q8 Extended (ID: 3258949)
+Description: None
+  https://civitai.com/api/download/models/3258949?fileId=3142465
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7efa34d1-5fa8-424e-9162-2d79ca4b4a4b/original=true/140741437.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f8672121-cd49-4d00-9c7b-08ac0f572028/original=true/140741439.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/923a9970-1377-4dc6-acd3-d275bc82cc8e/original=true/140741423.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6a3fdb9b-d7f8-400f-9672-8ceb4f55f2f0/original=true/140741433.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bf1654b9-0c2f-4876-a8b1-84ff5d0839e8/original=true/140741435.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a61632df-e608-4ee8-b063-7dafa5b5404e/original=true/140741451.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/27ace95e-e5dd-473a-8819-53ff06847307/original=true/140741448.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/622557b9-da06-4ef8-8c56-b6cda2846674/original=true/140741457.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b35a4535-9e51-466d-92f2-f1b0d77c17b6/original=true/140741458.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/05338e2e-d78e-46a1-b18d-04f0431b9016/original=true/140741460.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3deba0de-5270-4d28-ba9d-45afdd0b4de2/original=true/140741461.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0f30f2db-2485-4485-8143-cf2a7d671689/original=true/140741463.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3f5d2433-96da-4243-b7be-968ddfb79fbd/original=true/140741464.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/894485f9-044d-4f86-808f-9aa9f09cc3b7/original=true/140741466.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3fe46e15-5b2e-4f12-9a0e-7488789a5a9a/original=true/140741469.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/70e36006-c9c8-49d2-be5f-63a4e66b4454/original=true/140741470.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6696add7-1697-4cb1-b88d-f7abea84fc60/original=true/140741472.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b70a3cce-0d49-42a3-bcf3-d28bdd49772a/original=true/140741474.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0239a5e0-43e7-4e3c-bbd3-61f9dfc4254b/original=true/140741475.jpeg
+  https://civitai.com/api/download/models/3258949
+Version: v3.5 Fp8 Extended (ID: 3258950)
+Description: <p><strong>🆕 What's new in V3.5 EXTENDED</strong></p><p>- <strong>Better hands and anatomy</strong> on full-body and multi-limb shots.</p><p>- <strong>More natural skin</strong> — real pores and tone variation instead of an airbrushed finish.</p><p>- <strong>Steadier in 8 to 20 steps</strong> — fewer soft or mushy frames on hard prompts.</p><p><strong>💾 Not sure which? Go by your card</strong></p><p>- <strong>6 GB</strong> — Q2_K GGUF (~5.0 GB). The only one that fits.</p><p>- <strong>8 GB</strong> — Q4_0 GGUF (~7.8 GB), or NVFP4 (~7.2 GB) on a 50-series.</p><p>- <strong>12 GB</strong> — Q4_0 or NVFP4, comfortably.</p><p>- <strong>16 GB</strong> — INT8-ConvRot on NVIDIA, otherwise fp8.</p><p>- <strong>24 GB and up</strong> — Q8_0 GGUF (~13.6 GB), the closest to the full model.</p><p>Those are measured, not guessed. Leave a couple of GB on top for the text encoder. If it does not fit, it still runs — part of the model moves to system RAM — it just gets slower. <strong>Pro version on </strong><a target="_blank" rel="ugc" href="https://forgebun.com"><strong>my portal</strong></a><strong>.</strong></p>
+  https://forgebun.com
+  https://civitai.com/api/download/models/3258950?fileId=3142479
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6da3de65-513d-451c-8623-b248523a7f61/original=true/140733658.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/81532b33-1cbd-4248-810d-135c05aebd05/original=true/140733657.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e8188d96-d6c7-4531-8d1a-ff6643b43c23/original=true/140733662.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a01cb613-64fb-4bab-a784-5c907f877668/original=true/140733661.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9359d03f-2d41-435b-8c5f-310bfb49f518/original=true/140733663.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/12bd2b7a-093e-4db1-8021-511252c885ac/original=true/140733665.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3b427c0a-9a0d-49dd-9068-18a21b40f21b/original=true/140733671.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c97cdeb3-edbf-4d0d-85fa-5929d8abca19/original=true/140733674.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d72335b9-87a1-4620-a54f-78b27d339664/original=true/140733677.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d2c561eb-7bd0-4f8d-b0ae-54415212d13b/original=true/140733679.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/57d85a33-a25c-40e0-b5f5-669a482a4f8b/original=true/140733683.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/043d28cb-5aed-4b23-a261-f9fbbae6179c/original=true/140733684.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/067f169a-fdbd-4c18-94f0-c9db460b3532/original=true/140733690.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/adef7afe-a140-4647-b901-4d5e8f56eb3d/original=true/140733692.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3afd596e-7635-4315-b4b4-7dfe95ce1f8e/original=true/140733693.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ca32e529-89b4-4f13-bd89-83ac26be8902/original=true/140733694.jpeg
+  https://civitai.com/api/download/models/3258950
+Version: v3.5 Q4 Extended (ID: 3258948)
+Description: <p><strong>🆕 What's new in V3.5 EXTENDED</strong></p><p>- <strong>Better hands and anatomy</strong> on full-body and multi-limb shots.</p><p>- <strong>More natural skin</strong> — real pores and tone variation instead of an airbrushed finish.</p><p>- <strong>Steadier in 8 to 20 steps</strong> — fewer soft or mushy frames on hard prompts.</p><p><strong>💾 Not sure which? Go by your card</strong></p><p>- <strong>6 GB</strong> — Q2_K GGUF (~5.0 GB). The only one that fits.</p><p>- <strong>8 GB</strong> — Q4_0 GGUF (~7.8 GB), or NVFP4 (~7.2 GB) on a 50-series.</p><p>- <strong>12 GB</strong> — Q4_0 or NVFP4, comfortably.</p><p>- <strong>16 GB</strong> — INT8-ConvRot on NVIDIA, otherwise fp8.</p><p>- <strong>24 GB and up</strong> — Q8_0 GGUF (~13.6 GB), the closest to the full model.</p><p>Those are measured, not guessed. Leave a couple of GB on top for the text encoder. If it does not fit, it still runs — part of the model moves to system RAM — it just gets slower. <strong>Pro version on </strong><a target="_blank" rel="ugc" href="https://forgebun.com"><strong>my portal</strong></a><strong>.</strong></p>
+  https://forgebun.com
+  https://civitai.com/api/download/models/3258948?fileId=3142358
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/74182735-37a9-4bb7-86be-044fa971d8b5/original=true/140631446.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6fd71471-03fe-4985-802b-95e048424d99/original=true/140631405.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/86fca541-eedb-458c-b13d-a019c47eeea7/original=true/140631406.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/35d09059-ac6e-4426-9541-27c5836302ae/original=true/140631402.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be51db32-aa77-470e-98bc-0694a2bab2c2/original=true/140631400.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fe535be6-4b54-4314-a9fc-aba3e5b5f0b1/original=true/140631408.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2c41ec7d-e52b-4d04-9754-3ca6635a67d8/original=true/140631407.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/253e6c18-7f0c-47cf-b21a-054a93a24455/original=true/140631415.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e54386d3-603f-4770-9c9e-7f334a410dcf/original=true/140631414.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a186efd-e44f-4610-96ce-edb986df63b5/original=true/140631429.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/51195341-d4ea-4948-bb66-a31512993f2e/original=true/140631420.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e1a37250-2015-4a22-84c8-2e9145fcc8dc/original=true/140631432.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c6137b41-9d5c-4cb7-91f1-ed2dc2b31388/original=true/140631442.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/88e1e5b0-88b9-4078-afa2-88be8622e564/original=true/140631443.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4e7fcdb3-6202-4741-962b-a437d1da4f14/original=true/140631445.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5a300ceb-78fb-4b54-9e16-f13a3501f200/original=true/140631454.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/231e1340-2f66-4b1c-9b92-9288e5f93ab7/original=true/140631453.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a05cdc01-88df-4a57-9278-5fe9653f69f3/original=true/140631458.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cca2d176-2133-448e-9861-038e7f5167c4/original=true/140631461.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/52669e01-4152-430c-a2d9-1b1141f5ac9b/original=true/140631465.jpeg
+  https://civitai.com/api/download/models/3258948
+Version: v3.5 Q2 EXTENDED (ID: 3254124)
+Description: <p><strong>🆕 What's new in V3.5 EXTENDED</strong></p><p>- <strong>Better hands and anatomy</strong> on full-body and multi-limb shots.</p><p>- <strong>More natural skin</strong> — real pores and tone variation instead of an airbrushed finish.</p><p>- <strong>Steadier in 8 to 20 steps</strong> — fewer soft or mushy frames on hard prompts.</p><p><strong>💾 Not sure which? Go by your card</strong></p><p>- <strong>6 GB</strong> — Q2_K GGUF (~5.0 GB). The only one that fits.</p><p>- <strong>8 GB</strong> — Q4_0 GGUF (~7.8 GB), or NVFP4 (~7.2 GB) on a 50-series.</p><p>- <strong>12 GB</strong> — Q4_0 or NVFP4, comfortably.</p><p>- <strong>16 GB</strong> — INT8-ConvRot on NVIDIA, otherwise fp8.</p><p>- <strong>24 GB and up</strong> — Q8_0 GGUF (~13.6 GB), the closest to the full model.</p><p>Those are measured, not guessed. Leave a couple of GB on top for the text encoder. If it does not fit, it still runs — part of the model moves to system RAM — it just gets slower. <strong>Pro version on </strong><a target="_blank" rel="ugc" href="https://forgebun.com"><strong>my portal</strong></a><strong>.</strong></p>
+  https://forgebun.com
+  https://civitai.com/api/download/models/3254124?fileId=3137193
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e72abfd0-ee5f-4b95-b016-15a12e5d3b04/original=true/140518724.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/59d21539-1563-4ce0-b44f-37c69f420e6b/original=true/140518729.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/398c069d-cb92-4825-b148-d12d0bf0c11f/original=true/140518674.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/27d499e9-6283-4fd4-b231-753b205502fc/original=true/140518748.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad198051-16ca-4c69-aecb-6856ab7ff78d/original=true/140518675.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/03afb8d6-3400-4f5c-bff6-1031ff9f6f9a/original=true/140518684.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ba7348f1-2bf3-49ba-94e9-129243f007fc/original=true/140518683.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/415ce656-4115-4fb4-adfe-d6c52519ba02/original=true/140518693.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1721d396-0ac4-406e-99fa-121bf62e0c68/original=true/140518690.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e447ed8a-caac-4130-8c07-43a6e9d067a3/original=true/140518696.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2732e3ab-18c3-4893-87a6-a0ebb6571a7d/original=true/140518699.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08ec0873-7eec-4699-b50a-cd33888d8467/original=true/140518702.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/285da30a-0bec-44b2-acb8-c6bec3c278e4/original=true/140518709.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f4d576d3-0903-4883-9270-29513d9418d5/original=true/140518719.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b0dd6210-4cd4-4e74-b49b-d130aea1c4ce/original=true/140518723.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/25ecd032-7977-458e-a91b-2115e6a3bc96/original=true/140518732.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9198c56e-2312-4198-aecd-04b8f9e37774/original=true/140518743.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6d2d1805-46c8-4caa-b1c2-aa2108d195de/original=true/140518759.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f8b8ca47-0c77-47ee-962d-24306e686e27/original=true/140518755.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ffac11fc-6f36-48a9-8f26-761114cf100f/original=true/140518764.jpeg
+  https://civitai.com/api/download/models/3254124
+Version: v3.0 Turbo Int8 (ID: 3189679)
+Description: <p><strong>🟢 Muse by Stable Yogi · Krea2 · V3.0</strong></p><p><strong>The next step for Muse — the editorial look you know, now with more striking presence.</strong></p><p><strong>✨ What's NEW in V3.0</strong></p><p>- <strong>Everything from V2.5, elevated.</strong> The full Muse blend plus a more striking, magazine-grade edge.</p><p>- <strong>Standout faces.</strong> Editorial beauty, believable and polished — holds shot to shot.</p><p>- <strong>Glossy, cinematic light.</strong> Dimensional, produced, that Muse signature.</p><p>- <strong>Handles anyone.</strong> Young to mature, exactly as prompted.</p><p><strong>⭐ Want more?</strong> The <a target="_blank" rel="ugc" href="https://forgebun.com"><strong>PRO</strong> versio</a>n pushes presence and depth further — see below.</p><p>Made by Stable Yogi 🧘 — drop a ❤️ if Muse is your look.</p>
+  https://forgebun.com
+  https://civitai.com/api/download/models/3189679?fileId=3071420
+  https://civitai.com/api/download/models/3189679?fileId=3070441
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e6d3a5f9-38df-4f39-b869-2a8276a1df55/original=true/138488201.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2acbb330-b83a-40eb-b5ac-08a57fd512eb/original=true/138488222.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/232e6149-9ae5-46d1-bf9a-026ad26b9bf1/original=true/138488183.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9ae752d9-7ade-4884-87ee-cb0c8cc7fea2/original=true/138488182.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/580236eb-b81d-4abc-a38c-3f21d3cfc19d/original=true/138488187.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/82de470a-5af6-483f-b7d4-b365e41dbd3f/original=true/138488191.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/311f96e7-8373-444f-b7d4-1068d322d965/original=true/138488198.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/97debb8b-24ff-464c-8536-e3c8059754d6/original=true/138488212.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0062fe49-1a77-4f9c-9735-97bcd624f998/original=true/138488214.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e9820eb2-80b8-48c1-8c5d-d2198c42d559/original=true/138488223.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/244b3deb-5ffc-4b5d-93a4-bf2ea124dee8/original=true/138488234.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3a9dc685-991e-4e7c-bf32-426c18cd4cff/original=true/138488238.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/df466ae7-5606-4892-8c75-b47ddc0f2d4b/original=true/138488249.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e619ca97-7396-4805-afcb-1dfdb1077bd9/original=true/138488251.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4383dae2-5fbf-4e50-ace5-0c360a0c67b8/original=true/138488292.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fe75ebb7-ce3d-432b-bbf0-475a957670ce/original=true/138488294.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0a2c7b2c-95dc-4f0e-9b8a-435d31ba27db/original=true/138488299.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7e194b78-f472-455b-bb63-b0b818156a02/original=true/138488301.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fa0eefa4-1426-4ea1-9c4a-d8f4107967c3/original=true/138488312.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/096022ad-f453-4244-9312-5fa756dc47aa/original=true/138488313.jpeg
+  https://civitai.com/api/download/models/3189679
+Version: v3.0 Turbo NVFP4 (ID: 3191141)
+Description: <p><strong>🟢 Muse by Stable Yogi · Krea2 · V3.0</strong></p><p><strong>The next step for Muse — the editorial look you know, now with more striking presence.</strong></p><p><strong>✨ What's NEW in V3.0</strong></p><p>- <strong>Everything from V2.5, elevated.</strong> The full Muse blend plus a more striking, magazine-grade edge.</p><p>- <strong>Standout faces.</strong> Editorial beauty, believable and polished — holds shot to shot.</p><p>- <strong>Glossy, cinematic light.</strong> Dimensional, produced, that Muse signature.</p><p>- <strong>Handles anyone.</strong> Young to mature, exactly as prompted.</p><p><strong>⭐ Want more?</strong> The <a target="_blank" rel="ugc" href="https://forgebun.com"><strong>PRO</strong> versio</a>n pushes presence and depth further — see below.</p><p>Made by Stable Yogi 🧘 — drop a ❤️ if Muse is your look.</p>
+  https://forgebun.com
+  https://civitai.com/api/download/models/3191141?fileId=3071918
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f3504605-72fc-4c78-9f85-1246bd0d9137/original=true/138533420.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5956452d-019e-4a1f-9168-975a95cb9fa5/original=true/138533421.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0c7ae76c-7aa1-4f86-89a8-53625994d7e8/original=true/138533402.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/92dfd615-4bbf-49d9-8feb-262e09714914/original=true/138533403.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb19ead7-fd63-49ab-b1b9-edd2c4e8b415/original=true/138533405.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5156fc00-4afb-42b8-8865-7f9e40b4c564/original=true/138533404.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/76283b8f-247d-4d73-92e7-1d8b19a80ac2/original=true/138533410.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/457e49dd-2d22-4dfc-a54a-609400baea1d/original=true/138533418.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/09bde316-997c-41cd-a64e-86a06eb0e6d5/original=true/138533419.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2c71f5a6-6a0a-41f9-b6ea-139bce75583e/original=true/138533422.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0e04f0a1-ed65-4a9e-90dc-15d19ea527ea/original=true/138533423.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bfb81eb9-6e9d-455d-bd88-9d66d4534ecd/original=true/138533425.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2207167c-9725-4146-a305-b4ae33a85268/original=true/138533426.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3ef234db-a589-477d-b586-ee2d1e8c8552/original=true/138533427.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a35cab2f-d878-4b24-bac0-cf248e43b79e/original=true/138533428.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c81a13be-f678-48bb-b913-34848ea29013/original=true/138533430.jpeg
+  https://civitai.com/api/download/models/3191141
+Version: v3.0 🟢 Extended Turbo (ID: 3200544)
+Description: <p><strong>🟢 </strong>Muse by Stable Yogi · Krea 2 V3.0 — Extended</p><p>Upgraded cut of Muse V3.0, and both are free for the community.</p><p>Same Muse look you know, now with more room to work: run more steps, push the guidance a little, and edit your images right inside the model.</p><p>## What's in the pack</p><p><strong>🟣 Extended (Turbo)</strong></p><p>The full Muse V3.0 look with the brakes off. The standard turbo model is tuned for quick 8 step images at CFG 1. Extended opens that up so you can slow down for a cleaner, richer result and give the prompt more pull.</p><p>## Settings</p><p>- <strong>Steps 8 to 20 (16 is the sweet spot) · CFG 1 to 3 (try 2) · Euler · Simple.</strong></p><p>- Keep CFG at 3 or below. Higher pushes it too hard and the image starts to break.</p><p>- Model only. Pair with the Qwen3-VL text encoder + Qwen image VAE, same as base Krea 2.</p>
+  https://civitai.com/api/download/models/3200544?fileId=3081848
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6f40f4f8-b01e-483b-b5ea-140f715d3ede/original=true/138847168.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5053989e-e5f2-48c0-b662-be39c62981da/original=true/138847163.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec993ae0-1840-449e-aabe-6b743c43deb1/original=true/138847183.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1ae6a9c5-e253-4180-9922-e24588783a0c/original=true/138847152.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f37f2b03-ba9c-4d04-b21e-13d77d8fec8d/original=true/138847150.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f1d27da8-00c6-4023-8322-b672e9c8610d/original=true/138847156.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/252eba17-c04c-4b87-94cc-18c1d0a09ea5/original=true/138847155.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2f1ca8d8-2538-475f-8c29-de261d95aa91/original=true/138847164.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fbc226a8-b597-434e-bebb-8c2096e40f54/original=true/138847157.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/70e804c3-3b65-4d94-96b3-fe34e86f5cde/original=true/138847160.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/28a8dab3-c37e-4bb1-a255-dc03bacf71d0/original=true/138847161.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e138dc3e-d604-4cf9-9049-4c66de13c35b/original=true/138847169.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5e2585ad-fe5c-4974-bbb1-fd8394f664a0/original=true/138847188.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/42959c86-8784-4061-ab82-e7f3f3d09a9f/original=true/138847174.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f06c4f87-1b21-4d19-9e97-75060904aee0/original=true/138847192.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c7a16cbd-290c-46b5-b101-9c89ecbb5441/original=true/138847199.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0264264f-b6d5-435b-8d44-b3f5cd7fdee4/original=true/138847201.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e59331bf-c6ba-4655-b146-552493fd076e/original=true/138847202.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1fd8b12a-80e2-453f-bb25-df2fbb38060b/original=true/138847207.jpeg
+  https://civitai.com/api/download/models/3200544
+Version: v3.0 Extended Turbo Edit (ID: 3200345)
+Description: <p><strong>🟢 </strong>Muse by Stable Yogi · Krea 2 V3.0 — Extended Turbo Edit</p><p>Upgraded cut of Muse V3.0, and both are free for the community.</p><p>Same Muse look you know, now with more room to work: run more steps, push the guidance a little, and edit your images right inside the model.</p><p>## What's in the pack</p><p><strong>🟣 Extended (Turbo Edit)</strong></p><p>The full Muse V3.0 look with the brakes off. The standard turbo model is tuned for quick 8 step images at CFG 1. Extended opens that up so you can slow down for a cleaner, richer result and give the prompt more pull.</p><p>## Settings</p><p>- <strong>Steps 8 to 20 (16 is the sweet spot) · CFG 1 to 3 (try 2) · Euler · Simple.</strong></p><p>- Keep CFG at 3 or below. Higher pushes it too hard and the image starts to break.</p><p>- Model only. Pair with the Qwen3-VL text encoder + Qwen image VAE, same as base Krea 2.</p>
+  https://civitai.com/api/download/models/3200345?fileId=3081686
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/49bf1f81-3a71-4e9e-8cb8-5c217d287c8e/original=true/138938979.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8b0b2a20-2bce-413e-8ace-b09ae9c70958/original=true/138938948.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/750e7057-d9a9-4c6f-b489-9d3062c60706/original=true/138938970.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/917fdcf1-bf43-447d-bc91-4d8ba5ec77f4/original=true/138938946.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/36999f4f-9464-41e8-b3fc-a687db38bc34/original=true/138938945.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/023f55c7-d5c9-4bff-8f83-892603916be0/original=true/138938949.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0c57c448-60fb-46d0-9c2d-974b82a0c4ee/original=true/138938950.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/904df9f7-f4d2-44a9-9da2-251193ec5cb6/original=true/138938952.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2dc906cb-42af-4643-a277-9a117c0a9948/original=true/138938956.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/670a2dbb-0d2c-446a-8afe-f5f3ad92a0ff/original=true/138938957.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3abba9ca-887c-491f-b214-652d4cb23e04/original=true/138938958.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bd849f51-40c1-4ae3-8032-42efbdeed6f8/original=true/138938960.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9740d8d8-b5bd-4ae8-87e3-027589efbf73/original=true/138938961.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afcc70b8-9b91-46a5-a76b-1cbc987c6300/original=true/138938965.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d6058e19-3ce0-49b8-83fb-9227f1e98a97/original=true/138938967.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/636cd772-dfc5-4fd3-a0da-f2100f97c9a4/original=true/138938990.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b89cebba-5d2a-4db3-97c9-c5d3a0fef75b/original=true/138938974.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3185b362-c71e-4d1f-93b0-0533eea285e9/original=true/138938978.jpeg
+  https://civitai.com/api/download/models/3200345
+Version: v3.0 Turbo GGUf (ID: 3186004)
+Description: <p><strong>🟢 Muse by Stable Yogi · Krea2 · V3.0</strong></p><p><strong>The next step for Muse — the editorial look you know, now with more striking presence.</strong></p><p><strong>✨ What's NEW in V3.0</strong></p><p>- <strong>Everything from V2.5, elevated.</strong> The full Muse blend plus a more striking, magazine-grade edge.</p><p>- <strong>Standout faces.</strong> Editorial beauty, believable and polished — holds shot to shot.</p><p>- <strong>Glossy, cinematic light.</strong> Dimensional, produced, that Muse signature.</p><p>- <strong>Handles anyone.</strong> Young to mature, exactly as prompted.</p><p><strong>⭐ Want more?</strong> The <a rel="ugc" href="https://forgebun.com"><strong>PRO</strong> versio</a>n pushes presence and depth further — see below.</p><p>Made by Stable Yogi 🧘 — drop a ❤️ if Muse is your look.</p>
+  https://forgebun.com
+  https://civitai.com/api/download/models/3186004?fileId=3070320
+  https://civitai.com/api/download/models/3186004?fileId=3070359
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c4e92a94-490f-4ed8-9712-6d717c636eeb/original=true/138486481.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90a971b9-ffa5-4a31-a94b-f5fe758c34ad/original=true/138486502.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d03a3877-100f-4160-bc4f-97915328ad23/original=true/138486501.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2d92d23b-6e10-4622-b113-008eae4a0ed3/original=true/138486560.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/770231cb-1fbe-4bb1-8a45-8905ca70e889/original=true/138486482.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e2ed5100-4ef7-48dd-b803-f3e6a0ec606c/original=true/138486512.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3247f31d-173c-4767-ad2b-0c7ceca13405/original=true/138486513.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/684cd328-c1d8-4a19-9b42-05641f36a1bc/original=true/138486529.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e46687a9-6820-4b8e-b5d1-45f0eb5a7411/original=true/138486530.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e219e141-b32d-4a5b-9c2d-643ea5690850/original=true/138486681.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d8760dfe-5728-45f9-88f2-4a391d3b8f77/original=true/138486534.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/82c40718-21e1-4cde-800b-2aec2a73afc5/original=true/138486542.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d5192e28-d4ab-48a8-9293-be241956fff4/original=true/138486549.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d20a3733-3a1a-42e0-a261-730396db833e/original=true/138486555.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e4e84bc6-3714-4511-b020-9a150d022c5d/original=true/138486682.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/86f9bdac-42a6-4f9d-b24f-93368b34c824/original=true/138487091.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/76d9a554-1bed-4681-884b-ae4818f09898/original=true/138486683.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d1116ea0-f5e0-4bd1-bbd0-13e3bfcf0d06/original=true/138486684.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7f575c50-e041-4b59-bc4e-3c18dbc3aad6/original=true/138486686.jpeg
+  https://civitai.com/api/download/models/3186004
+Version: v2.5 🟢 EXTENDED TURBO (ID: 3149126)
+Description: <p>🟢 MUSE V2.5 EXTENDED</p><p><strong>Your settings, your look — Muse V2.5 with room to move.</strong></p><p>Most turbo models pin you to one setting: change the steps or the guidance and the image falls apart. <strong>Extended doesn't.</strong> It holds together across a real working range, so you can tune the result instead of accepting it.</p><p><strong>⚙️ Settings</strong></p><ul><li><p><strong>Recommended: 16 steps · CFG 2 · Euler · Simple · native 1024²+</strong></p></li><li><p><strong>Works across: 8–20 steps · CFG 1–3</strong></p></li><li><p>⚠️ <strong>Don't go above CFG 3.</strong></p></li></ul><p><strong>✨ Why you'd want it</strong></p><ul><li><p><strong>Dial in your own look.</strong> Lower CFG for soft and natural, higher for punch and contrast. Fewer steps for speed, more for polish. Your call, not the model's.</p></li><li><p><strong>Extra steps actually pay off.</strong> At 16 steps you get the richest version of Muse — deeper light, warmer tone, more presence.</p></li><li><p><strong>It follows your prompt harder.</strong> More guidance headroom means when you ask for a specific scene, you get that scene.</p></li><li><p><strong>Still quick when you're in a hurry.</strong> 8 steps works fine for drafts and batch runs.</p></li></ul><p><strong>🎯 Which one should I use?</strong></p><p><strong>Best for Muse V2.5</strong> (standard)Speed. Sharpest at 8 steps — the everyday default.</p><p><strong>Muse V2.5 Extended</strong></p><p>Control and quality ceiling. Give it 16 steps, CFG 2.</p><p><strong>📦 Download</strong> — <strong>INT8-ConvRot</strong> (fast INT8 tensor cores, loads natively in Forge + ComfyUI,</p><p>Made by Stable Yogi 🧘 — drop a ❤️ and show me what you tune it to. Looking for a Pro Version  check here on <a target="_blank" rel="ugc" href="https://forgebun.com"><strong>my portal.</strong></a></p>
+  https://forgebun.com
+  https://civitai.com/api/download/models/3149126?fileId=3029901
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/357e2f63-b3a0-468e-a1af-7a9bc8ff5709/original=true/137329465.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c254e1cd-fce7-4e04-806f-97eabe23cae6/original=true/137329468.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/12094b18-f359-410d-bac1-9da5edb674c8/original=true/137329452.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/777352a0-b821-47e7-9e0f-f8c409458af7/original=true/137329445.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aeba6783-67e9-4568-8dd5-9cd0ecf32bfd/original=true/137329459.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a73e797a-984c-4874-8525-ffddbddc7de6/original=true/137329447.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b6eafe57-35f6-496e-8212-eb61e60924e3/original=true/137329448.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/45e42908-af51-4718-8a0b-5484d5b08fcf/original=true/137329453.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d64921af-feac-4c13-a924-4483409eda75/original=true/137329450.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb642516-deab-49bf-a429-e31799ca81fd/original=true/137329458.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cb9ac31d-e196-4535-8cce-8b998f1b3e77/original=true/137329462.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0f3dc6c6-fd9d-4699-87b9-9d07ce0b4501/original=true/137329474.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4d322298-61aa-40ee-8fce-0aeb2d3b46f6/original=true/137329463.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/618b0b99-3cfd-48a9-9877-94c39ebcc326/original=true/137329464.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1ede833f-735f-4f36-867e-47bc2a88d3ed/original=true/137329466.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/15cbe9ff-d64c-44e7-9f95-d2b450848e76/original=true/137329467.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4df95fae-a19d-430d-91e2-5831c6918adf/original=true/137329472.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fabc2d7e-a33e-43ba-bd67-d8de0999fcab/original=true/137329473.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0d7f5072-d281-4c3a-95a7-51c7711fa3b0/original=true/137329471.jpeg
+  https://civitai.com/api/download/models/3149126
+Version: v2.5 NVFP4 Turbo (ID: 3161047)
+Description: <p><strong>Muse by Stable Yogi · Krea2 · V2.5 — NVFP4</strong></p><p>The <strong>NVFP4</strong> (4-bit) build of Realism V1.0 — made for <strong>RTX 50-series / Blackwell</strong> cards.</p><ul><li><p><strong>Smallest &amp; fastest</strong> — ~8 GB, native FP4 tensor cores. Lowest VRAM, top speed on 50-series.</p></li><li><p><strong>Same realism</strong> — real skin, natural light, true-to-life — no quality loss from 4-bit.</p></li><li><p><strong>Runs in ComfyUI + the latest Forge</strong> (Blackwell only — on older cards use the INT8 / fp8 / GGUF versions instead).</p></li></ul><p><strong>⚙️ Settings:</strong> 8 steps · CFG 1 · Euler · Simple · native 1024²+<br /><em>(Model only — pair with the Qwen3-VL text encoder + Qwen-Image VAE, same as base Krea 2.)</em></p><p>Made by Stable Yogi , get Pro release on <a target="_blank" rel="ugc" href="https://forgebun.com"><strong>my portal.</strong></a></p>
+  https://forgebun.com
+  https://civitai.com/api/download/models/3161047?fileId=3041463
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/35f288bf-61b3-4494-857f-02786f0ce8b2/original=true/137691254.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a0b81253-024d-46ec-998b-8f705c75219a/original=true/137691307.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9d548e95-dca3-4f59-9cbc-abceb33a17d1/original=true/137691246.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b0755c0f-17c2-494b-8111-668e6ef55e12/original=true/137691248.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8a085115-e8ff-475d-900a-4c2149276daf/original=true/137691255.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0acba5d3-799b-453a-96b0-cf7b476194ae/original=true/137691269.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2e10f883-0464-46a8-8e70-2112a19c121d/original=true/137691266.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aae0d819-d931-4292-82fa-12b8bedaad70/original=true/137691273.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f4b177db-2084-4b03-8ae8-274a51102cd5/original=true/137691277.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ff63a710-3809-41a5-94ae-d9be039a09c3/original=true/137691279.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/345abf95-659c-4642-8357-8b2d3fb1fc3c/original=true/137691284.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b9e40722-708f-492a-89f7-92c366df12af/original=true/137691287.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bd40fd45-67b5-49d4-97b1-56b938c411ce/original=true/137691291.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9817c5e7-e4fb-4366-b20b-ab731657cec1/original=true/137691293.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d71d6b1c-9ca3-47d6-8a71-c075776330b4/original=true/137691299.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e70301e7-7dcc-4108-949e-d5350083275b/original=true/137691298.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/851143de-569d-4b4a-ba62-041eca117d78/original=true/137691301.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb835904-843d-493b-a0dc-7b3382c7aa5a/original=true/137691302.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/472b9140-1558-4368-97b1-1acab883da81/original=true/137691305.jpeg
+  https://civitai.com/api/download/models/3161047
+Version: v2.5 INT8 Turbo (ID: 3147272)
+Description: <p><strong>Muse by Stable Yogi · Krea 2 · V2.5</strong></p><p><strong>The full-spectrum edition of Muse on Krea 2 — same photoreal turbo, a wider, richer blend.</strong></p><p><strong>✨ What's NEW in V2.5</strong></p><p>- <strong>A broader, more varied blend</strong> — more range across faces, skin, and lighting moods.</p><p>- <strong>True photorealism</strong> — real skin texture, pores, freckles, natural light (not AI-glossy).</p><p>- <strong>Believable faces, consistent</strong> — holds up shot to shot.</p><p>- <strong>Turbo</strong> — full images in <strong>8 steps</strong>.</p><p><strong>🔧 V2.0 vs V2.5</strong></p><p>- Companion release to <strong>V2.0</strong> — we put out <strong>both</strong> so you can pick your favourite. V2.0 is the tighter, more focused cut; <strong>V2.5 is the fuller blend</strong> with a touch more variety. Same engine, same speed.</p><p><strong>📦 Downloads</strong></p><p>- <strong>INT8-ConvRot</strong> — fast (INT8 tensor cores), loads natively in <strong>Forge + ComfyUI</strong>.</p><p>- <strong>Q8 GGUF</strong> — near-lossless. · <strong>Q4 GGUF</strong> — low VRAM / small download.</p><p>- <em>(Model only — load the </em>*Qwen3-VL text encoder + Qwen-Image VAE** alongside, same as base Krea 2; they auto-download.)*</p><p><strong>⚙️ Settings</strong></p><p>- <strong>8 steps · CFG 1 · Euler · Simple · native 1024–2048.</strong></p><p><strong>⭐ Want more punch?</strong> Grab the <strong>PRO</strong> edition from <a target="_blank" rel="ugc" href="https://forgebun.com"><strong>my portal, </strong></a>dials detail and depth up further.</p><p>Made by Stable Yogi — drop a ❤️ and tell us: V2.0 or V2.5?</p>
+  https://forgebun.com
+  https://civitai.com/api/download/models/3147272?fileId=3027846
+  https://civitai.com/api/download/models/3147272?fileId=3028119
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/615e0b01-bc3f-43b5-ba15-becb1e908214/original=true/137307030.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cfda7e41-a17c-4e1c-823d-2fcf1522da75/original=true/137307051.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2f24bc6c-2c80-4214-877f-2959d0691eac/original=true/137307012.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/23c7e9b8-a9a1-4641-ae8c-0c530e0c7e9c/original=true/137307013.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/20381461-e791-4db1-af6e-c13e26d9d4a4/original=true/137307014.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aa41574e-fcdc-4fbe-a147-46b4ba4658e2/original=true/137307016.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0590d6ba-c8fb-4b61-8c8f-b6b4443fe987/original=true/137307018.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/114ff9d5-2001-48e7-9233-fb21f01c06a1/original=true/137307022.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f5772427-dc7e-4ca7-904c-b72c0db2c0c2/original=true/137307021.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c48147a0-25ec-4dfd-a130-0bb453d6388b/original=true/137307028.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c0489eaa-6d9d-4e5f-ba18-47fc700dea31/original=true/137307039.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d10da5f2-1f04-437e-aff0-d414172fd4e1/original=true/137307036.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/688385d9-76bf-4c46-ba40-caf3dc41ac7b/original=true/137307044.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2d2ba72e-ecec-41b1-86a1-30c746455edb/original=true/137307047.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/68f7034d-5939-4c81-8f4a-c58b1be4b5fc/original=true/137307056.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e6a3e4a2-6653-438d-857f-884a632cf802/original=true/137307058.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a64b329-e2db-4769-a93c-b35cae5fac78/original=true/137307059.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4595eac5-8427-4965-b3f9-4404ada77161/original=true/137307060.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8adc0134-1836-4889-bbe4-7d129cc337eb/original=true/137307063.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/491f4747-52d6-4871-bbfc-81d772cd3ca7/original=true/137307061.jpeg
+  https://civitai.com/api/download/models/3147272
+Version: v2.5 GGUF (ID: 3142181)
+Description: <p><strong>Muse by Stable Yogi · Krea 2 · V2.5</strong></p><p><strong>The full-spectrum edition of Muse on Krea 2 — same photoreal turbo, a wider, richer blend.</strong></p><p><strong>✨ What's NEW in V2.5</strong></p><p>- <strong>A broader, more varied blend</strong> — more range across faces, skin, and lighting moods.</p><p>- <strong>True photorealism</strong> — real skin texture, pores, freckles, natural light (not AI-glossy).</p><p>- <strong>Believable faces, consistent</strong> — holds up shot to shot.</p><p>- <strong>Turbo</strong> — full images in <strong>8 steps</strong>.</p><p><strong>🔧 V2.0 vs V2.5</strong></p><p>- Companion release to <strong>V2.0</strong> — we put out <strong>both</strong> so you can pick your favourite. V2.0 is the tighter, more focused cut; <strong>V2.5 is the fuller blend</strong> with a touch more variety. Same engine, same speed.</p><p><strong>📦 Downloads</strong></p><p>- <strong>INT8-ConvRot</strong> — fast (INT8 tensor cores), loads natively in <strong>Forge + ComfyUI</strong>.</p><p>- <strong>Q8 GGUF</strong> — near-lossless. · <strong>Q4 GGUF</strong> — low VRAM / small download.</p><p>- <em>(Model only — load the </em>*Qwen3-VL text encoder + Qwen-Image VAE** alongside, same as base Krea 2; they auto-download.)*</p><p><strong>⚙️ Settings</strong></p><p>- <strong>8 steps · CFG 1 · Euler · Simple · native 1024–2048.</strong></p><p><strong>⭐ Want more punch?</strong> Grab the <strong>PRO</strong> edition from <a target="_blank" rel="ugc" href="https://forgebun.com"><strong>my portal, </strong></a>dials detail and depth up further.</p><p>Made by Stable Yogi  — drop a ❤️ and tell us: V2.0 or V2.5?</p>
+  https://forgebun.com
+  https://civitai.com/api/download/models/3142181?fileId=3022632
+  https://civitai.com/api/download/models/3142181?fileId=3026402
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3d6e34ed-5c62-4e4a-9d30-f2e2d9e04cfb/original=true/137118508.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/19024d59-b09d-46bd-bb4d-5690f7e79c7e/original=true/137118504.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/160c6fb6-9098-438f-b952-b7f7bd17e548/original=true/137118547.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/841423b3-f2e2-4300-a03e-d612ed41282d/original=true/137118530.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90270d0f-42a9-446e-9f11-acd62d1249c4/original=true/137118503.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/204fed74-2f95-4916-83c3-9460fff3bba3/original=true/137118507.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a328870d-54dd-40e9-80bd-b649b5bf5bd7/original=true/137118510.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/828d244a-80f0-4c4a-b883-36d3cf2108d1/original=true/137118511.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/81b6449b-9dff-4765-bdde-9222a0744584/original=true/137118514.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8b433705-e6b2-4811-934a-7edc17d31e52/original=true/137118517.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bea9109d-581c-40a8-b361-b039c01248ee/original=true/137118520.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cf592b4c-be98-43f4-9754-c316f9a23151/original=true/137118523.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fd16f5ad-52c3-4ef2-9941-6382afd0828a/original=true/137118525.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/01d85044-c336-4f5a-ba03-23729605c7ac/original=true/137118528.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/49289257-8edb-4dfe-bb37-fd6cbe64c0d6/original=true/137118529.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c4164cb5-79ab-4e88-8758-f6c009afab97/original=true/137118531.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4e6b2d59-f57c-4836-90d6-785bd0550024/original=true/137118536.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/111a925e-c418-4c07-ac93-9929aedb2461/original=true/137118537.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/de13b85a-8270-439a-bf69-e4d4153cac94/original=true/137118544.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3d8e8837-2922-4b75-8a07-885562a9474c/original=true/137118553.jpeg
+  https://civitai.com/api/download/models/3142181
+Version: v2.0 Turbo INT8 (ID: 3131430)
+Description: <p><strong>Muse by Stable Yogi · Krea 2 · V2.0</strong></p><p><strong>The next evolution of Muse on Krea 2 — more real, more detailed, same turbo speed.</strong></p><p><strong>✨ What's NEW in V2.0</strong></p><ul><li><p><strong>A real jump in photorealism</strong> — skin now has genuine texture: pores, freckles, fine detail (less "AI-smooth").</p></li><li><p><strong>Shot-on-camera look</strong> — believable faces, natural lived-in complexion.</p></li><li><p><strong>Richer, more dimensional lighting</strong> — window light, soft shadows, real depth.</p></li><li><p><strong>Holds up across prompts</strong> — lifelike skin and faces, consistent shot to shot.</p></li></ul><p><strong>🔧 What CHANGED (vs V1.5)</strong></p><ul><li><p>Built on the V1.5 engine, evolved with fresh photoreal character detail.</p></li><li><p>Cleaner, more natural rendering — over-polished feel gone.</p></li><li><p>Still <strong>turbo</strong> — full images in <strong>8 steps</strong>.</p></li></ul><p><strong>📦 Downloads</strong> — <strong>INT8-ConvRot</strong> (Forge + ComfyUI native) · <strong>Q4 GGUF</strong> (low VRAM). <em>(Load Qwen3-VL TE + Qwen-Image VAE alongside — auto-download.)</em><br /><strong>⚙️ Settings</strong> — <strong>8 steps · CFG 1 · Euler · Simple · native 1024–2048.</strong><br /><strong>⭐</strong> PRO edition on <a target="_blank" rel="ugc" href="https://forgebun.com"><strong>my portal</strong></a> dials it up further.</p>
+  https://forgebun.com
+  https://civitai.com/api/download/models/3131430?fileId=3012088
+  https://civitai.com/api/download/models/3131430?fileId=3012107
+  https://civitai.com/api/download/models/3131430?fileId=3015361
+  https://civitai.com/api/download/models/3131430?fileId=3019751
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9c18b7b1-98fc-475c-a7c6-e4a001cad6d0/original=true/136762274.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ebefc90d-44c8-42fd-96f8-96ffbf68a2c0/original=true/136762310.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1c9f176d-97d6-4438-b129-1d66591f3955/original=true/136762269.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e8d45dd1-6b7e-4be9-84c7-673c6ac332c9/original=true/136762229.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b2d1b12c-7626-40a5-a5bc-8cd1c03e531e/original=true/136762231.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/817e3db8-dc81-4f93-84fb-446826c02153/original=true/136762262.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2fdd8a99-4708-4821-95df-cb3e5b75733d/original=true/136762237.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/55594781-976a-4801-8f7b-043a41fe7b8c/original=true/136762238.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e084de58-53a2-40ff-871c-aa6496e114b9/original=true/136762242.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/56beeb20-4434-4994-9c37-4dccf26a15be/original=true/136762244.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a12fb800-9b65-45a8-a0a9-c11fc628413b/original=true/136762247.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d2e90c59-fa38-4dde-8d01-c68e8bab65db/original=true/136762265.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e52348e8-cb1c-4dab-afa9-dd2015ff080d/original=true/136762268.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5f4b76a5-867f-4f7f-b489-3da7b2ffc2c6/original=true/136762287.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/125c3037-7633-40b6-b6b9-e664c3028269/original=true/136762293.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bf7a8e2b-261d-44e8-aca5-71f8091676e1/original=true/136762299.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8c76d6e0-afa7-47f5-b950-83dbeaeac1ef/original=true/136762300.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0059aa58-9662-4de7-adbb-41e99bce3190/original=true/136762308.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/85048028-46fc-4cf5-80e3-b2640278a4ea/original=true/136762313.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/74af7f9a-7b76-485e-86eb-d36e2f0c9b0c/original=true/136762337.jpeg
+  https://civitai.com/api/download/models/3131430
+Version: v2.0 Turbo EDIT INT8 (ID: 3138301)
+Description: <p><strong>Muse by Stable Yogi — Krea 2 · V2.0 EDIT (INT8)</strong></p><p>Instruction-based <strong>image editing baked into</strong> the Muse V2.0 checkpoint — no LoRA loader needed.</p><p><strong>What's in it</strong></p><ul><li><p>Muse V2.0 (photoreal Krea 2 engine) + <strong>Krea 2 Identity Edit LoRA v1.1 merged in</strong> at full strength, tested, then <strong>re-quantized to INT8-ConvRot</strong>.</p></li></ul><p><strong>ComfyUI</strong></p><ul><li><p>Node pack: <code>https://github.com/lbouaraba/comfyui-krea2edit</code></p></li><li><p><strong>Skip the LoRA loader — it's already baked in.</strong> Feed this checkpoint straight into <code>Krea2EditModelPatch</code>.</p></li><li><p>Free workflow JSON: <code>https://aistudynow.com/the-step-by-step-krea-2-edit-comfyui-workflow-with-free-json/</code></p></li><li><p>Blur fix: <strong>Wan 2.1 VAE 2x upscaler</strong> (spacepxl) via ComfyUI-VAE-Utils.</p></li><li><p>TE + VAE: Qwen3-VL + Qwen-Image VAE (Comfy-Org/Krea-2).</p></li></ul><p><strong>Settings</strong></p><ul><li><p><strong>8–12 steps · CFG 1.0</strong> (<strong>3.0 for removals</strong>) · Euler · Simple</p></li><li><p><code>grounding_px</code><strong> 384–768</strong> — lower = stronger edit, higher = stronger likeness</p></li><li><p><strong>≤2 MP</strong> (~1–1.5 MP for two-person edits)</p></li></ul><p><strong>Credit</strong> — built on the <strong>Krea 2 Identity Edit LoRA v1.1 by conradlocke</strong>. Krea 2 Community License.</p><p>Made by Stable Yogi 🧘</p>
+  https://github.com/lbouaraba/comfyui-krea2edit
+  https://aistudynow.com/the-step-by-step-krea-2-edit-comfyui-workflow-with-free-json/
+  https://civitai.com/api/download/models/3138301?fileId=3018445
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a6a102f-652a-46f9-b751-b872ac3fe444/original=true/136971880.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/86d23697-26a5-420c-9137-99ee596fcf1f/original=true/136979881.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2ac5acfe-7d60-4b2c-a848-36deb3623ddf/original=true/136971892.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fe3a32ab-2601-4390-96e4-87757ceceddf/original=true/136979880.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/663e2776-3213-4330-b093-2141d78a49d9/original=true/136971879.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e57e78b0-e528-484c-9737-4914eb199c35/original=true/136979888.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/993764cd-a09a-41e6-8a4c-e3a05f238338/original=true/136971883.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/84991a94-0642-4098-9cf1-dc0f8d44ec1f/original=true/136979890.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6540b4c3-8497-46a4-a83d-83a445854953/original=true/136971884.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d31420e6-9d90-4c80-adef-73e573dbdf62/original=true/136971885.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e31f048d-14ec-4b12-9002-e0ebc31ee466/original=true/136971886.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f7381066-c08b-41c1-b41b-3c6947e802bd/original=true/136971889.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/07b8155e-d055-4de0-b310-8665bb8c94b2/original=true/136971887.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7ce0261d-4e7f-486b-8223-e20d09bd9698/original=true/136971890.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8ee09bfc-4975-478a-9374-e69a6ab6abe4/original=true/136971893.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c84fb1f3-1cb4-4fb1-b749-9ac196bb0791/original=true/136971895.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c550d8d1-78d8-45d3-a1c3-456a08be8ddc/original=true/136971894.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a211eaf6-cbef-4f5f-945a-be5932eec125/original=true/136971898.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a3abdd63-c06c-41ee-b028-fc3a59f0d76e/original=true/136971897.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/78287452-be8c-467a-b141-56a95c364c25/original=true/136971903.jpeg
+  https://civitai.com/api/download/models/3138301
+Version: v1.5 Turbo Fp8 (ID: 3092719)
+Description: <p><strong>Photoreal Krea 2 — fast, versatile, built to look genuinely real.</strong></p><p><strong>✨ What it is</strong></p><ul><li><p>Photorealistic model on <strong>Krea 2</strong>, tuned by Stable Yogi · <strong>turbo (8 steps)</strong> · plug-and-play with the Krea 2 TE + VAE.</p></li></ul><p><strong>🎯 Great for</strong></p><ul><li><p>Photoreal <strong>portraits</strong> &amp; <strong>full-body</strong></p></li><li><p><strong>Any character</strong></p></li><li><p><strong>Fashion &amp; editorial</strong> </p></li><li><p><strong>Lifestyle &amp; scenes</strong> </p></li><li><p><strong>better lighting</strong></p></li><li><p><strong>Strong prompt-following</strong> </p></li><li><p><strong>Natural skin &amp; faces</strong> </p></li></ul><p><strong>📦 Downloads</strong> — <strong>Q8 GGUF (recommended)</strong> · <strong>Q4 GGUF (low VRAM)</strong> · <strong>fp8 (compat)</strong> <em>(load TE + VAE alongside)</em><br /><strong>⚙️</strong> 8 steps · CFG 1 · Euler · Simple · native res<br /><strong>⭐</strong> Want more punch? The <strong>PRO</strong> edition on <a target="_blank" rel="ugc" href="http://stableyogi.com">stableyogi.com</a> is dialed up further.</p>
+  http://stableyogi.com
+  https://civitai.com/api/download/models/3092719?fileId=2972543
+  https://civitai.com/api/download/models/3092719?fileId=2972446
+  https://civitai.com/api/download/models/3092719?fileId=2972509
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/395e43e7-9bab-4271-a6af-9a5488d552fa/original=true/135562725.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/443e826d-a34b-41e3-ac39-e9787d772dea/original=true/135562765.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b74de55d-5b6f-457f-b5f9-58a636574aa1/original=true/135562753.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/13eceaeb-516f-4c43-b5ec-e8ccbb4b2786/original=true/135562723.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f491b933-e21b-4788-9889-b0c9e8e58682/original=true/135562716.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/720de6fd-71ea-4ffe-a61c-d08ba4eeeabd/original=true/135562728.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1c3d90eb-4e76-4bd5-b8ce-c78f4b26ba70/original=true/135562731.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afc50f71-64f0-4001-8802-bac50c894f04/original=true/135562734.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fa793ad8-c6ba-4add-ba2a-a93c6a11a42d/original=true/135562735.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/75c94f53-cd4f-426a-a0ea-b6bbfb11d9fb/original=true/135562739.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c9dd24c2-9c0b-49e7-94d2-063a0d55d413/original=true/135562742.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2c60748d-3a22-42d5-adcb-5683cf3c8313/original=true/135562741.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d0d3ab1a-0b9c-4e0b-a17c-de29a39deaea/original=true/135562747.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/89dc3008-2af7-4407-b9db-3431f03c0d2e/original=true/135562745.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6e33c3d3-ab83-4c07-9afb-9c73d0d07d0a/original=true/135562752.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/862b4f82-fb18-4f7e-853c-4c3e15f69f52/original=true/135562756.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3e7c9132-42da-4516-883e-d9d3f4ca0a6a/original=true/135562760.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/be317336-4891-4a90-9c22-69464ebd8f1d/original=true/135562766.jpeg
+  https://civitai.com/api/download/models/3092719
+Version: v1.0 Turbo Fp8 (ID: 3087451)
+Description: <p>Experimental Build with some spice.</p><p>Looking for a Pro version get it free at <a target="_blank" rel="ugc" href="https://stableyogi.com">stable yogi</a></p>
+  https://stableyogi.com
+  https://civitai.com/api/download/models/3087451?fileId=2967039
+  https://civitai.com/api/download/models/3087451?fileId=2967067
+  https://civitai.com/api/download/models/3087451?fileId=2967035
+  https://civitai.com/api/download/models/3087451?fileId=2967221
+  https://civitai.com/api/download/models/3087451?fileId=2967209
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/02689471-8e81-4339-b511-a42af934d610/original=true/135412156.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f38e7740-dbbc-4a04-a927-b9672ca08e84/original=true/135430038.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/10c86221-aae6-4e26-a1bb-3a08f385daed/original=true/135412043.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a5d8c398-edbb-4fad-9e43-16278aba86ff/original=true/135411971.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/df014687-f541-4afc-be88-385bc9acac26/original=true/135411862.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6e7e4353-e726-47fa-b62c-13ad5ac0b539/original=true/135429976.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/723ee95d-8591-46cf-bfe9-346263807dce/original=true/135411802.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8f2c3c97-be81-4423-985e-18cdf180a696/original=true/135429975.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/086b7b28-9c17-4051-a5fb-3a55aa2025f0/original=true/135429979.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eb8de3e4-85e2-4caa-9282-66289d3e9176/original=true/135411878.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/03fb1cfe-c47c-485b-a532-4b9598adce15/original=true/135429977.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fa40abf0-4e77-4e63-8b1e-4e631fdadbca/original=true/135411936.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec222c7a-4fc2-4fae-a0cd-514f7bf2a78b/original=true/135412047.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/28ba070c-85fe-4e7a-9360-2bc5a93f6040/original=true/135429984.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e41eee5d-3886-44f7-b03a-f8302704a187/original=true/135412123.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/367aa0d8-5b82-4af8-83e7-1c9b83413c67/original=true/135429978.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f634e54e-e9f5-47e8-8ddb-5da7f8891aa5/original=true/135429981.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c05e632c-23cc-4224-a379-fddfc01dd70d/original=true/135429987.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/db909d96-f867-4fa0-94c1-5b584a5bb8aa/original=true/135429989.jpeg
+  https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/44c166eb-5d4f-4aa2-88d9-660db240b527/original=true/135429990.jpeg
+  https://civitai.com/api/download/models/3087451
+Version: v1.0 Turbo FP8 (ID: 3082791)
+Description: <p>Experimental Build with some spice.</p><p>Looking for a Pro version get it free at <a target="_blank" rel="ugc" href="https://stableyogi.com">stable yogi</a></p>
+  https://stableyogi.com
+  https://civitai.com/api/download/models/3082791?fileId=2966704
+  https://civitai.com/api/download/models/3082791?fileId=2962197
+  https://civitai.com/api/download/models/3082791?fileId=2962286
+  https://civitai.com/api/download/models/3082791

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.png
+*.jpg
+*.jpeg
+*.webp
+.idea/
+.vscode/
+runpod_config.json
+.env
