@@ -28,12 +28,11 @@ RUN git clone https://github.com/chrisgoringe/cg-use-everywhere.git && \
     git clone https://github.com/PGCRT/CRT-Nodes.git
 
 # Install python dependencies for custom nodes
-RUN for req in /comfyui/custom_nodes/*/requirements.txt; do [ -f "$req" ] && pip install --no-cache-dir -r "$req"; done || true
 RUN pip install --no-cache-dir \
-    scikit-image \
-    piexif \
-    opencv-python \
+    torchvision \
     opencv-contrib-python \
+    scikit-image \
+    scikit-learn \
     colour-science \
     matplotlib \
     spandrel \
@@ -42,14 +41,26 @@ RUN pip install --no-cache-dir \
     transformers \
     accelerate \
     pywavelets \
-    scikit-learn \
     diffusers \
     peft \
     sentencepiece \
     color-matcher \
     pymatting \
     blend_modes \
-    loguru
+    loguru \
+    ultralytics \
+    einops \
+    rotary-embedding-torch \
+    soundfile \
+    imageio-ffmpeg \
+    huggingface_hub \
+    tqdm \
+    piexif
+
+RUN for req in /comfyui/custom_nodes/*/requirements.txt; do [ -f "$req" ] && pip install --no-cache-dir -r "$req"; done || true
+
+# Ensure ComfyUI_LayerStyle imports submodules fault-tolerantly
+RUN python -c "p = '/comfyui/custom_nodes/ComfyUI_LayerStyle/__init__.py'; c = open(p).read(); c = c.replace('imported_module = importlib.import_module', 'try:\n        imported_module = importlib.import_module').replace('except:', 'except Exception as e:\n        pass\n    except:'); open(p, 'w').write(c)" || true
 
 # 3. Create model directory structure
 RUN mkdir -p /comfyui/models/diffusion_models \
