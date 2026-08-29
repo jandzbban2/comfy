@@ -63,8 +63,8 @@ RUN aria2c -x 16 -s 16 -k 1M \
 
 # Diffusion Model: Muse by Stable Yogi v3.5 Int8 (~13.5 GB) using your Civitai Token
 RUN aria2c -x 16 -s 16 -k 1M \
-    --header="Authorization: Bearer 8e728b6705b6a2650183d127a74a3644" \
-    "https://civitai.red/api/download/models/3258954?fileId=3142504&token=8e728b6705b6a2650183d127a74a3644" \
+    --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
+    "https://civitai.com/api/download/models/3258954?fileId=3142504&token=8e728b6705b6a2650183d127a74a3644" \
     -d /comfyui/models/diffusion_models -o museByStableYogi_v35Int8Extended.safetensors
 
 WORKDIR /
