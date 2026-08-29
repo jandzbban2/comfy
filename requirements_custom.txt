@@ -24,9 +24,6 @@ cmake==4.4.2
 color-matcher==0.6.0
 colorama==0.4.6
 colour-science==0.4.7
-comfy-aimdo==0.4.15
-comfy-angle==0.1.0
-comfy-kitchen==0.2.31
 comfyui-embedded-docs==0.5.10
 comfyui-manager==4.2.2
 comfyui-workflow-templates-core==0.3.326

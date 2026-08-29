@@ -34,18 +34,5 @@ if [ ! -f "/comfyui/models/diffusion_models/museByStableYogi_v35Int8Extended.saf
         -d /comfyui/models/diffusion_models -o museByStableYogi_v35Int8Extended.safetensors
 fi
 
-echo "=== 2. Starting ComfyUI Server ==="
-python /comfyui/main.py --listen 127.0.0.1 --port 8188 --disable-auto-launch &
-
-echo "=== 3. Waiting for ComfyUI to be fully ready on 127.0.0.1:8188 ==="
-for i in $(seq 1 120); do
-    if curl -s -o /dev/null -w "%{http_code}" http://127.0.0.1:8188/ | grep -q "200"; then
-        echo "ComfyUI server is LIVE and responding on 127.0.0.1:8188!"
-        break
-    fi
-    echo "Waiting for ComfyUI server to finish booting ($i/120)..."
-    sleep 2
-done
-
-echo "=== 4. Starting RunPod Serverless Handler ==="
-exec python -u /rp_handler.py
+echo "=== All models ready! Executing RunPod Serverless startup script ==="
+exec /start.sh "$@"
