@@ -60,7 +60,7 @@ RUN pip install --no-cache-dir \
 RUN for req in /comfyui/custom_nodes/*/requirements.txt; do [ -f "$req" ] && pip install --no-cache-dir -r "$req"; done || true
 
 # Ensure ComfyUI_LayerStyle imports submodules fault-tolerantly
-RUN python -c "p = '/comfyui/custom_nodes/ComfyUI_LayerStyle/__init__.py'; c = open(p).read(); c = c.replace('imported_module = importlib.import_module', 'try:\n        imported_module = importlib.import_module').replace('except:', 'except Exception as e:\n        pass\n    except:'); open(p, 'w').write(c)" || true
+COPY patches/layerstyle_init.py /comfyui/custom_nodes/ComfyUI_LayerStyle/__init__.py
 
 # 3. Create model directory structure
 RUN mkdir -p /comfyui/models/diffusion_models \
