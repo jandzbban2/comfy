@@ -15,10 +15,17 @@ if os.path.exists(py):
             m = importlib.import_module(".py." + name, __name__)
             if hasattr(m, "NODE_CLASS_MAPPINGS"):
                 NODE_CLASS_MAPPINGS.update(m.NODE_CLASS_MAPPINGS)
+                for k, cls in m.NODE_CLASS_MAPPINGS.items():
+                    if hasattr(cls, "__name__"):
+                        NODE_CLASS_MAPPINGS[cls.__name__] = cls
             if hasattr(m, "NODE_DISPLAY_NAME_MAPPINGS"):
                 NODE_DISPLAY_NAME_MAPPINGS.update(m.NODE_DISPLAY_NAME_MAPPINGS)
         except Exception as e:
             print(f"[LayerStyle] Note: submodule '{file}' skipped ({e})")
+
+# Explicit alias for workflow compatibility
+if "LayerUtility: Seed" in NODE_CLASS_MAPPINGS:
+    NODE_CLASS_MAPPINGS["SeedNode"] = NODE_CLASS_MAPPINGS["LayerUtility: Seed"]
 
 WEB_DIRECTORY = "./js"
 __all__ = ["NODE_CLASS_MAPPINGS", "NODE_DISPLAY_NAME_MAPPINGS", "WEB_DIRECTORY"]
