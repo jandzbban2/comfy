@@ -39,33 +39,10 @@ RUN pip install --no-cache-dir -r /tmp/requirements_custom.txt || true
 COPY patches/layerstyle_init.py /comfyui/custom_nodes/ComfyUI_LayerStyle/__init__.py
 COPY patches/crt_nodes_init.py /comfyui/custom_nodes/CRT-Nodes/__init__.py
 
-# 3. Create model directory structure
-RUN mkdir -p /comfyui/models/diffusion_models \
-             /comfyui/models/text_encoders \
-             /comfyui/models/vae \
-             /comfyui/models/checkpoints
-
-# 4. Download Krea 2 / Muse models directly into image layers (Fast multi-connection via aria2)
-
-# VAE: Qwen Image VAE (~250 MB)
-RUN aria2c -x 16 -s 16 -k 1M \
-    "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/vae/qwen_image_vae.safetensors" \
-    -d /comfyui/models/vae -o qwen_image_vae.safetensors
-
-# Text Encoder: Qwen3-VL 4B FP8 (Saved as both abliterated and standard names)
-RUN aria2c -x 16 -s 16 -k 1M \
-    "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/text_encoders/qwen3vl_4b_fp8_scaled.safetensors" \
-    -d /comfyui/models/text_encoders -o qwen3vl-4b-abliterated_fp8_e4m3fn.safetensors && \
-    ln -s /comfyui/models/text_encoders/qwen3vl-4b-abliterated_fp8_e4m3fn.safetensors \
-          /comfyui/models/text_encoders/qwen3vl_4b_fp8_scaled.safetensors
-
-# Diffusion Model: Muse by Stable Yogi v3.5 Int8 (~13.5 GB) using your Civitai Token
-RUN aria2c -x 16 -s 16 -k 1M \
-    --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
-    "https://civitai.com/api/download/models/3258954?fileId=3142504&token=8e728b6705b6a2650183d127a74a3644" \
-    -d /comfyui/models/diffusion_models -o museByStableYogi_v35Int8Extended.safetensors
+# 6. Copy fast model downloader and entrypoint script
+COPY scripts/entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
 
 WORKDIR /
 
-# The base runpod image provides the start script / handler
-CMD ["/start.sh"]
+ENTRYPOINT ["/entrypoint.sh"]
