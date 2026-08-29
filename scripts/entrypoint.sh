@@ -1,14 +1,13 @@
 #!/bin/bash
 set -e
 
-echo "=== Initializing ComfyUI Serverless Container ==="
-
+echo "=== 1. Checking & Downloading Model Weights ==="
 mkdir -p /comfyui/models/diffusion_models \
          /comfyui/models/text_encoders \
          /comfyui/models/vae \
          /comfyui/models/checkpoints
 
-# 1. Download VAE if not present (~250 MB, ~1 second)
+# 1. Download VAE if not present (~250 MB)
 if [ ! -f "/comfyui/models/vae/qwen_image_vae.safetensors" ]; then
     echo "Downloading Qwen Image VAE..."
     aria2c -x 16 -s 16 -k 1M --summary-interval=5 \
@@ -16,7 +15,7 @@ if [ ! -f "/comfyui/models/vae/qwen_image_vae.safetensors" ]; then
         -d /comfyui/models/vae -o qwen_image_vae.safetensors
 fi
 
-# 2. Download Text Encoder if not present (~4.5 GB, ~10 seconds)
+# 2. Download Text Encoder if not present (~4.5 GB)
 if [ ! -f "/comfyui/models/text_encoders/qwen3vl_4b_fp8_scaled.safetensors" ] && [ ! -f "/comfyui/models/text_encoders/qwen3vl-4b-abliterated_fp8_e4m3fn.safetensors" ]; then
     echo "Downloading Qwen3-VL 4B FP8 Text Encoder..."
     aria2c -x 16 -s 16 -k 1M --summary-interval=5 \
@@ -26,7 +25,7 @@ if [ ! -f "/comfyui/models/text_encoders/qwen3vl_4b_fp8_scaled.safetensors" ] &&
            /comfyui/models/text_encoders/qwen3vl_4b_fp8_scaled.safetensors
 fi
 
-# 3. Download Diffusion Model if not present (~13.5 GB, ~25 seconds on datacenter fiber)
+# 3. Download Diffusion Model if not present (~13.5 GB)
 if [ ! -f "/comfyui/models/diffusion_models/museByStableYogi_v35Int8Extended.safetensors" ]; then
     echo "Downloading Muse v3.5 Int8 Diffusion Model from Civitai..."
     aria2c -x 16 -s 16 -k 1M --summary-interval=5 \
@@ -35,10 +34,18 @@ if [ ! -f "/comfyui/models/diffusion_models/museByStableYogi_v35Int8Extended.saf
         -d /comfyui/models/diffusion_models -o museByStableYogi_v35Int8Extended.safetensors
 fi
 
-echo "=== All models verified! Starting Serverless Worker ==="
+echo "=== 2. Starting ComfyUI Server ==="
+python /comfyui/main.py --listen 127.0.0.1 --port 8188 --disable-auto-launch &
 
-if [ -f "/start.sh" ]; then
-    exec /start.sh "$@"
-else
-    exec python -u /rp_handler.py
-fi
+echo "=== 3. Waiting for ComfyUI to be fully ready on 127.0.0.1:8188 ==="
+for i in $(seq 1 120); do
+    if curl -s -o /dev/null -w "%{http_code}" http://127.0.0.1:8188/ | grep -q "200"; then
+        echo "ComfyUI server is LIVE and responding on 127.0.0.1:8188!"
+        break
+    fi
+    echo "Waiting for ComfyUI server to finish booting ($i/120)..."
+    sleep 2
+done
+
+echo "=== 4. Starting RunPod Serverless Handler ==="
+exec python -u /rp_handler.py
